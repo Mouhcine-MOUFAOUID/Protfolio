@@ -1,0 +1,25 @@
+Template color
+
+Light Mode:
+
+Text ->#0c1017
+Background->#f5f7fa
+Primary->#6a84af
+Secondary->#ceaea6
+Accent->#b6b77b
+
+Dark Mode:
+
+Text ->#e8ecf3
+Background->#05070a
+Primary->#506b95
+Secondary->#593931
+Accent->#838448
+
+
+Font-family -> 
+-snippet
+-lora
+-narnoor
+
+I create elevating digital experiences that inspire and connect with people through development and design
